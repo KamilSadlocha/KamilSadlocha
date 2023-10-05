@@ -2,12 +2,12 @@
 
 
 
-🔭 I’m currently working on getting my first commercial experience as Junior Full Stack Developer / Junior Java Developer.
-🌱 I’m currently deepening my knowledge of React and Spring Boot.
-🤝 I’m looking for help with my first big solo project called Retro Archive.
-👯 I am willing to take part in projects related to Java, Spring Boot or PostgreSQL. I am particularly interested in projects that will allow me to apply and develop my backend skills in practice.
-💬 Ask me about React, Java, Spring Boot, Hibernate, PostgreSQL, or any other technologies I've worked with. 
-⚡ Fun fact: Spring and summer - hiking tours. Autumn and winter - Spotify and retro games.
+🔭 I’m currently working on getting my first commercial experience as Junior Full Stack Developer / Junior Java Developer.</br>
+🌱 I’m currently deepening my knowledge of React and Spring Boot.</br>
+🤝 I’m looking for help with my first big solo project called Retro Archive.</br>
+👯 I am willing to take part in projects related to Java, Spring Boot or PostgreSQL. I am particularly interested in projects that will allow me to apply and develop my backend skills in practice.</br>
+💬 Ask me about React, Java, Spring Boot, Hibernate, PostgreSQL, or any other technologies I've worked with. </br>
+⚡ Fun fact: Spring and summer - hiking tours. Autumn and winter - Spotify and retro games.</br>
 
 
 
@@ -36,7 +36,7 @@
 
 # 📊  Stats:
 ![CodeWars](https://www.codewars.com/users/KamilSadlocha/badges/large)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KamilSadlocha&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KamilSadlocha&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSadlocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
