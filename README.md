@@ -35,7 +35,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊  Stats:
-![CodeWars](https://www.codewars.com/users/KamilSadlocha/badges/large)
+![CodeWars](https://www.codewars.com/users/KamilSadlocha/badges/large)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KamilSadlocha&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSadlocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
